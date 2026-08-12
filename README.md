@@ -4,7 +4,12 @@
 <h2>Languages</h2>
 </div>
 
-<img align="center" alt="Language opinion-expereience chart" src="./assets/Languages.svg" width="600" style="display: block; margin: 0 auto;" >
+<div align="center">
+<img alt="Language opinion-expereience chart" src="./assets/Languages.svg" width="600" >
+</div>
+<div align="center">
+<sub>Please take no offense, this is person opinion!</sub>
+</div>
 
 <div align="center">
 <h2>Personal stats, including private repositories</h2>
