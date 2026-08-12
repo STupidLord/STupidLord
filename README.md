@@ -3,4 +3,4 @@
 </div>
 
 <img align="left" alt="STupidLord's GitHub stats" src="https://github-stats-extended-mu.vercel.app/api?username=STupidLord&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&exclude_repo=github-readme-stats,github-stats-extended" />
-<img align="right" alt="STupidLord's GitHub language stats" src="https://github-stats-extended-mu.vercel.app/api/top-langs/?username=STupidLord&hide_border=true&theme=midnight-purple&layout=pie&exclude_repo=github-readme-stats,github-stats-extended" />
+<img align="right" alt="STupidLord's GitHub language stats" src="https://github-stats-extended-mu.vercel.app/api/top-langs/?username=STupidLord&hide=Rich%20Text%20Format&hide_border=true&theme=midnight-purple&layout=pie&exclude_repo=github-readme-stats,github-stats-extended" />
