@@ -8,7 +8,7 @@
 <img alt="Language opinion-expereience chart" src="./assets/Languages.svg" width="600" >
 </div>
 <div align="center">
-<sub>Please take no offense, this is person opinion!</sub>
+<sub>Please take no offense, this is personal opinion!</sub>
 </div>
 
 <div align="center">
